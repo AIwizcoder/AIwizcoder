@@ -222,28 +222,10 @@ Beyond API integration, I work directly with the fundamentals that make AI syste
 - Model training, fine-tuning, and evaluation methodology
 - Inference behavior and optimization trade-offs
 
-This is not a claim of expertise across every listed area — it's the foundation I build on and continue to deepen.
+
 
 <br/>
 
-## Currently Building
-
-> Placeholder — replace with active project names and one-line descriptions.
-
-- `project-name` — short description
-- `project-name` — short description
-- `project-name` — short description
-
-<br/>
-
-## Featured Engineering Projects
-
-> Placeholder table — replace rows with real repositories as they're built. No projects are listed here yet.
-
-| Project | Problem | Architecture | Status |
-|---|---|---|---|
-| `project-name` | what it solves | key components | Building |
-| `project-name` | what it solves | key components | Planned |
 
 <br/>
 
