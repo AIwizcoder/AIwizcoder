@@ -229,7 +229,7 @@ Beyond API integration, I work directly with the fundamentals that make AI syste
 
 <br/>
 
-## GitHub Statistics
+
 
 
 <br/>
