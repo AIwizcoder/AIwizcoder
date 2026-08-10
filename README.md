@@ -2,7 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Hi%20👋%20I'm%20Ali%20Hassan&fontSize=36&fontColor=ffffff&animation=fadeIn" />
 
-<img src="https://img.shields.io/badge/AI%20%2F%20ML%20Engineer-in%20progress-2c5364?style=for-the-badge" />
+<img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" width="28px" />
+<img src="https://img.shields.io/badge/AI%20%2F%20ML%20Engineer-Financial%20NLP-2c5364?style=for-the-badge" />
 
 </div>
 
@@ -10,15 +11,18 @@
 
 ### 🧠 About Me
 
-- 📊 Working at the intersection of **financial news analysis, machine learning, and Python data engineering**
-- 🎯 Focused on detecting market-moving news events — separating routine headlines from ones that actually move price
-- 🌱 Still building and learning — no polished portfolio yet, just real projects in progress
+- 📊 AI/ML Engineer working on **NLP for financial text**
+- ⚙️ Fine-tuning transformer models (FinBERT) for financial text classification
+- 🧪 Experienced with class-imbalance handling — focal loss, contrastive learning, threshold optimization
+- 🐍 Building Python data pipelines for large-scale financial data collection and processing
 
-### 🧩 What I'm Building
+### 🛠️ Core Skills
 
-- 🧠 **Binary News Classifier (FinBERT)** — fine-tuning `finbert-pretrain` to flag Normal vs. Abnormal (market-moving) headlines, using Focal Loss, contrastive learning, and threshold tuning to handle heavy class imbalance
-- 📖 **Catalyst Rulebook** — a rules-based system for classifying financial headlines by likely price direction (acquisitions, capital raises, partnership patterns, and more)
-- 🕷️ **Financial News Scraper** — a Python pipeline (Playwright + curl_cffi) that pulls articles across JS-rendered and Cloudflare-protected sources for the classifier to run on
+- Fine-tuning and adapting pretrained transformer models (FinBERT / BERT-family) on domain-specific financial text
+- Designing classification architectures — custom heads, contrastive/supervised contrastive loss, mixed-precision training
+- Handling real-world data challenges: class imbalance, data leakage checks, dataset augmentation
+- Building resilient Python scraping/ETL pipelines (Playwright, curl_cffi) for financial news sources, including JS-rendered and protected sites
+- Rule-based and ML-hybrid systems for structured text classification
 
 ### 🛠️ Tech Stack
 
@@ -34,8 +38,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Alwizcoder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alwizcoder&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://img.shields.io/github/followers/Alwizcoder?style=for-the-badge&color=0f2027&labelColor=2c5364" />
+<img src="https://komarev.com/ghpvc/?username=Alwizcoder&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS" />
 </div>
 
 ### 🌐 Connect With Me
