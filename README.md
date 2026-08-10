@@ -35,12 +35,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-### 📊 GitHub Stats
 
-<div align="center">
-<img src="https://img.shields.io/github/followers/Alwizcoder?style=for-the-badge&color=0f2027&labelColor=2c5364" />
-<img src="https://komarev.com/ghpvc/?username=Alwizcoder&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS" />
-</div>
 
 ### 🌐 Connect With Me
 
