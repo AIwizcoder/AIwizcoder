@@ -104,43 +104,7 @@ Workflows that combine deterministic logic with selective LLM use — reserving 
 
 <br/>
 
-## AI System Architecture
 
-A representative shape of how I structure an LLM-backed service:
-
-```
-                         Client
-                           │
-                           ▼
-                    FastAPI (API Layer)
-                           │
-                           ▼
-                 Auth / Rate Limiting
-                           │
-                           ▼
-              Orchestration (LangGraph / Agent Logic)
-                           │
-              ┌────────────┴────────────┐
-              ▼                         │
-        Retrieval Layer                 │
-   (Vector DB → Reranker)               │
-              │                         │
-              └────────────┬────────────┘
-                           ▼
-                       LLM Call
-                (OpenAI / Anthropic)
-                           │
-                           ▼
-              Structured Output Validation
-                           │
-                           ▼
-               Evaluation / Observability
-                           │
-                           ▼
-                        Response
-```
-
-Retrieval, validation, and evaluation are drawn as explicit stages because they're where most LLM systems actually break — not at the model call itself.
 
 <br/>
 
