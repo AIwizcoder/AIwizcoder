@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Hi%20👋%20I'm%20Hassan%20Ibrar&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Hi%20👋%20I'm%20Ali%20Hassan&fontSize=36&fontColor=ffffff&animation=fadeIn" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+Generative+AI+%7C+Computer+Vision;Building+LLMs%2C+RAG+%26+Diffusion+Pipelines;Turning+Research+Into+Production+Systems" alt="Typing SVG" />
-</a>
+<img src="https://img.shields.io/badge/AI%20%2F%20ML%20Engineer-in%20progress-2c5364?style=for-the-badge" />
 
 </div>
 
@@ -12,29 +10,25 @@
 
 ### 🧠 About Me
 
-- 💡 Building AI systems for real-world impact
-- ⚙️ Specialized in **LLMs, Stable Diffusion, GANs, Computer Vision**
-- 🚀 Focused on end-to-end pipelines — training → optimization → deployment
-- 🧪 Turning research into production-grade solutions
+- 📊 Working at the intersection of **financial news analysis, machine learning, and Python data engineering**
+- 🎯 Focused on detecting market-moving news events — separating routine headlines from ones that actually move price
+- 🌱 Still building and learning — no polished portfolio yet, just real projects in progress
 
-### 🧩 Projects & Work
+### 🧩 What I'm Building
 
-- 🌊 **Flood Detection System** — Unsupervised learning + clustering for water-level estimation
-- 🔍 **Super Resolution Systems** — RealESRGAN + custom ESRGANPlus
-- 🎨 **Generative AI Pipelines** — Stable Diffusion (SDXL / SD3 / FLUX)
-- ⚡ **Performance Optimization** — GPU acceleration, multiprocessing pipelines
+- 🧠 **Binary News Classifier (FinBERT)** — fine-tuning `finbert-pretrain` to flag Normal vs. Abnormal (market-moving) headlines, using Focal Loss, contrastive learning, and threshold tuning to handle heavy class imbalance
+- 📖 **Catalyst Rulebook** — a rules-based system for classifying financial headlines by likely price direction (acquisitions, capital raises, partnership patterns, and more)
+- 🕷️ **Financial News Scraper** — a Python pipeline (Playwright + curl_cffi) that pulls articles across JS-rendered and Cloudflare-protected sources for the classifier to run on
 
 ### 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,docker,git,github,linux,aws,vscode,huggingface" />
-</div>
-
-<div align="center">
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/Stable%20Diffusion-000000?style=for-the-badge&logo=stability-ai&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
 ### 📊 GitHub Stats
@@ -42,10 +36,6 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Alwizcoder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alwizcoder&theme=tokyonight&hide_border=true" height="165"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alwizcoder&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 ### 🌐 Connect With Me
@@ -57,9 +47,6 @@
 </a>
 <a href="mailto:aiwizcoder@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/Alwizcoder">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
